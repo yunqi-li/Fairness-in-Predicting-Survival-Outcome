@@ -1,1 +1,1 @@
-# Fairnessin-Predicting-Survival-Outcome
+# Fairness-in-Predicting-Survival-Outcome
