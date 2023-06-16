@@ -1,1 +1,8 @@
 # Fairness-in-Predicting-Survival-Outcome
+
+## File Description
+- Algorithm1.jpg: The psuedo-code of our algorithm.
+- Experimental Setup: Details of our experiment settings. 
+- "Effect of Min-max Fairness for TCGA Data.jpg" and "TCGA Results with Weighted Loss.jpg": Experimental results on TCGA dataset.
+
+Code is still under clean and will be published in the camara-ready version. 
